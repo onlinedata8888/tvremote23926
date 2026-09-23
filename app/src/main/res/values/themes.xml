@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.TVRemote" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#eef0f3</item>
+        <item name="android:windowBackground">#eef0f3</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
